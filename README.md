@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rojan G. Mul</h1>
 <h3 align="center">I'd love to create, design, and develop creative Websites.</h3>
-<img align="right" alt="Coding" width="400" src="https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif" />
+<img align="right" alt="Coding" width="400" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=projan111&label=Profile%20views&color=0e75b6&style=flat" alt="projan111" /> </p>
 
