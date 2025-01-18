@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=projan111&label=Profile%20views&color=0e75b6&style=flat" alt="projan111" />
 </p>
 
-<div align="center">
+<div align="left">
   <img align="right" alt="Coding" width="400" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" />
   <h3>🚀 About Me</h3>
   <p>💻 Full-Stack Developer passionate about creating innovative solutions</p>
@@ -35,11 +35,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next/next-original-wordmark.svg" alt="next" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <!-- Framer Motion Icon -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framer/framer-original.svg" alt="framer-motion" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gsap/gsap-original.svg" alt="gsap" width="40" height="40"/>
+  <!-- GSAP Icon -->
+  <img src="https://www.svgrepo.com/show/346548/gsap-logo.svg" alt="gsap" width="40" height="40"/>
 </p>
 
 #### Backend:
